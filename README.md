@@ -1,7 +1,7 @@
 Clone this Repository
 
 ```
-git clone https://github.com/mteam88/eth-sweeper-bot](https://github.com/YZSDEV/ETH-Auto-Transfer-BOT.git
+git clone https://github.com/YZSDEV/ETH-Auto-Transfer-BOT.git
 
 ```
 Download Go: Run the following command to download the latest Go version:
