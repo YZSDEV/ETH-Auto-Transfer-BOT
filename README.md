@@ -42,7 +42,7 @@ HQ_ADDRESS = "YOUR PERSONAL ADDRESS" // Destination Address
 
 Run this bot with command
 ```
-go run go.main
+go run main.go
 ```
 
 
