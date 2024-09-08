@@ -2,7 +2,7 @@ Clone this Repository
 
 ```
 git clone https://github.com/YZSDEV/ETH-Auto-Transfer-BOT.git
-
+cd ETH-Auto-Transfer-BOT
 ```
 Download Go: Run the following command to download the latest Go version:
 
